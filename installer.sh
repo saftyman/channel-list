@@ -87,8 +87,8 @@ rm -rf ${TMPDIR}/channels_backup_user_"${VERSION}"* astra-* bbc_pmt_v6*
 echo
 set -e
 echo "Downloading And Insallling Channel Please Wait ......"
-wget $MY_URL/khaled_fullsat.tar.gz -qP $TMPDIR
-tar -zxf $TMPDIR/khaled_fullsat.tar.gz -C /
+wget $MY_URL/channels_backup_by_Melsafty20221001.tar.gz -qP $TMPDIR
+tar -zxf $TMPDIR/channels_backup_by_Melsafty20221001.tar.gz -C /
 sleep 5
 set +e
 echo
