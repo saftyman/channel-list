@@ -145,7 +145,7 @@ if [ $OSTYPE = "Opensource" ]; then
 fi
 
 #########################
-rm -rf ${TMPDIR}/channels_backup_by_Melsafty20221001.tar.gz
+rm -rf ${TMPDIR}/channels_hazem-wahba.tar.gz
 rm -rf ${TMPDIR}/* astra-
 rm -rf ${TMPDIR}/* bbc_pmt_v6
 
